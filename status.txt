@@ -1,0 +1,179 @@
+Process 0 has been created. Page table size is 22. Number of resident pages is 0.
+Process 1 has been created. Page table size is 9. Number of resident pages is 0.
+Process 1 is reading from virtual page 0 which occupies frame 0. Number of resident pages is 1
+Process 1 is writing from virtual page 0 which occupies frame 0. Number of resident pages is 1
+Process 1 is writing from virtual page 0 which occupies frame 0. Number of resident pages is 1
+Process 0 is reading from virtual page 1 which occupies frame 0. Number of resident pages is 1
+Process 0 is writing from virtual page 10 which occupies frame 1. Number of resident pages is 2
+Process 0 is writing from virtual page 10 which occupies frame 1. Number of resident pages is 2
+Process 2 has been created. Page table size is 13. Number of resident pages is 0.
+Process 2 is reading from virtual page 1 which occupies frame 0. Number of resident pages is 1
+Process 2 is writing from virtual page 1 which occupies frame 0. Number of resident pages is 1
+Process 2 is writing from virtual page 1 which occupies frame 0. Number of resident pages is 1
+Process 1 is reading from virtual page 1 which occupies frame 1. Number of resident pages is 2
+Process 1 is writing from virtual page 2 which occupies frame 2. Number of resident pages is 3
+Index 0: Page: 0, Resident bit: 0
+Index 1: Page: 1, Resident bit: 0
+Index 2: Page: 2, Resident bit: 0
+Process 1 is writing from virtual page 2 which occupies frame 2. Number of resident pages is 3
+Process 3 has been created. Page table size is 11. Number of resident pages is 0.
+Process 3 is reading from virtual page 0 which occupies frame 0. Number of resident pages is 1
+Process 3 is writing from virtual page 0 which occupies frame 0. Number of resident pages is 1
+Process 2 is reading from virtual page 12 which occupies frame 1. Number of resident pages is 2
+Process 2 is writing from virtual page 11 which occupies frame 2. Number of resident pages is 3
+Index 0: Page: 1, Resident bit: 0
+Index 1: Page: 12, Resident bit: 0
+Index 2: Page: 11, Resident bit: 0
+Process 2 is writing from virtual page 12 which occupies frame 1. Number of resident pages is 3
+Process 0 is reading from virtual page 1 which occupies frame 0. Number of resident pages is 2
+Process 0 is writing from virtual page 10 which occupies frame 1. Number of resident pages is 2
+Process 0 is writing from virtual page 2 which occupies frame 2. Number of resident pages is 3
+Index 0: Page: 1, Resident bit: 0
+Index 1: Page: 10, Resident bit: 0
+Index 2: Page: 2, Resident bit: 0
+Process 0 is reading from virtual page 3 which occupies frame 3. Number of resident pages is 4
+Process 0 is writing from virtual page 4 which occupies frame 4. Number of resident pages is 5
+Process 3 is writing from virtual page 9 which occupies frame 1. Number of resident pages is 2
+Process 3 is reading from virtual page 9 which occupies frame 1. Number of resident pages is 2
+Process 3 is writing from virtual page 0 which occupies frame 0. Number of resident pages is 2
+Process 3 is writing from virtual page 10 which occupies frame 2. Number of resident pages is 3
+Index 0: Page: 0, Resident bit: 0
+Index 1: Page: 9, Resident bit: 0
+Index 2: Page: 10, Resident bit: 0
+Process 3 is reading from virtual page 0 which occupies frame 0. Number of resident pages is 3
+Process 3 is writing from virtual page 8 which occupies frame 3. Number of resident pages is 4
+Process 3 is writing from virtual page 0 which occupies frame 0. Number of resident pages is 4
+Process 3 is reading from virtual page 7 which occupies frame 4. Number of resident pages is 5
+Process 3 is writing from virtual page 0 which occupies frame 0. Number of resident pages is 5
+Process 3 is writing from virtual page 1 which occupies frame 5. Number of resident pages is 6
+Index 0: Page: 0, Resident bit: 0
+Index 3: Page: 8, Resident bit: 0
+Index 4: Page: 7, Resident bit: 0
+Index 5: Page: 1, Resident bit: 0
+Process 1 is reading from virtual page 3 which occupies frame 3. Number of resident pages is 4
+Process 1 is writing from virtual page 0 which occupies frame 0. Number of resident pages is 4
+Process 1 is writing from virtual page 7 which occupies frame 4. Number of resident pages is 5
+Process 2 is reading from virtual page 11 which occupies frame 2. Number of resident pages is 3
+Process 2 is writing from virtual page 12 which occupies frame 1. Number of resident pages is 3
+Process 2 is writing from virtual page 1 which occupies frame 0. Number of resident pages is 3
+Process 2 is reading from virtual page 1 which occupies frame 0. Number of resident pages is 3
+Process 0 is writing from virtual page 21 which occupies frame 5. Number of resident pages is 6
+Index 3: Page: 3, Resident bit: 0
+Index 4: Page: 4, Resident bit: 0
+Index 5: Page: 21, Resident bit: 0
+Process 0 is reading from virtual page 1 which occupies frame 0. Number of resident pages is 4
+Process 0 is writing from virtual page 10 which occupies frame 1. Number of resident pages is 5
+Process 1 is reading from virtual page 7 which occupies frame 4. Number of resident pages is 5
+Process 1 is writing from virtual page 2 which occupies frame 2. Number of resident pages is 5
+Process 1 is writing from virtual page 1 which occupies frame 1. Number of resident pages is 5
+Process 1 is reading from virtual page 8 which occupies frame 5. Number of resident pages is 6
+Index 0: Page: 0, Resident bit: 0
+Index 1: Page: 1, Resident bit: 0
+Index 2: Page: 2, Resident bit: 0
+Index 3: Page: 3, Resident bit: 0
+Index 4: Page: 7, Resident bit: 0
+Index 5: Page: 8, Resident bit: 0
+Process 3 is reading from virtual page 6 which occupies frame 1. Number of resident pages is 5
+Process 3 is writing from virtual page 6 which occupies frame 1. Number of resident pages is 5
+Process 3 is writing from virtual page 0 which occupies frame 0. Number of resident pages is 5
+Process 3 is reading from virtual page 5 which occupies frame 2. Number of resident pages is 6
+Process 3 is writing from virtual page 0 which occupies frame 0. Number of resident pages is 6
+Process 3 is writing from virtual page 4 which occupies frame 6. Number of resident pages is 7
+Index 0: Page: 0, Resident bit: 0
+Index 1: Page: 6, Resident bit: 0
+Index 2: Page: 5, Resident bit: 0
+Index 6: Page: 4, Resident bit: 0
+Process 3 is reading from virtual page 0 which occupies frame 0. Number of resident pages is 4
+Process 3 terminated. Total memory accesses: 38. Total page faults: 9. Page fault percentage: 23.6842%.
+Index 0: Page: 0, Resident bit: 1
+Index 1: Page: 6, Resident bit: 0
+Index 2: Page: 5, Resident bit: 0
+Index 6: Page: 4, Resident bit: 0
+
+Process 0 is writing from virtual page 4 which occupies frame 4. Number of resident pages is 5
+Process 0 is reading from virtual page 5 which occupies frame 2. Number of resident pages is 6
+Index 0: Page: 1, Resident bit: 0
+Index 1: Page: 10, Resident bit: 0
+Index 2: Page: 5, Resident bit: 0
+Index 4: Page: 4, Resident bit: 0
+Process 0 is writing from virtual page 6 which occupies frame 3. Number of resident pages is 5
+Process 0 is writing from virtual page 4 which occupies frame 4. Number of resident pages is 5
+Process 0 is reading from virtual page 21 which occupies frame 5. Number of resident pages is 6
+Process 0 is writing from virtual page 10 which occupies frame 1. Number of resident pages is 6
+Process 0 is writing from virtual page 10 which occupies frame 1. Number of resident pages is 6
+Process 2 is writing from virtual page 2 which occupies frame 3. Number of resident pages is 4
+Process 2 is writing from virtual page 2 which occupies frame 3. Number of resident pages is 4
+Process 2 is reading from virtual page 1 which occupies frame 0. Number of resident pages is 4
+Process 2 is writing from virtual page 6 which occupies frame 4. Number of resident pages is 5
+Process 2 is writing from virtual page 4 which occupies frame 5. Number of resident pages is 6
+Index 0: Page: 1, Resident bit: 0
+Index 1: Page: 12, Resident bit: 0
+Index 2: Page: 11, Resident bit: 0
+Index 3: Page: 2, Resident bit: 0
+Index 4: Page: 6, Resident bit: 0
+Index 5: Page: 4, Resident bit: 0
+Process 2 is reading from virtual page 3 which occupies frame 6. Number of resident pages is 7
+Process 1 is writing from virtual page 8 which occupies frame 5. Number of resident pages is 6
+Process 1 is writing from virtual page 0 which occupies frame 0. Number of resident pages is 6
+Process 1 terminated. Total memory accesses: 30. Total page faults: 6. Page fault percentage: 20%.
+Index 0: Page: 0, Resident bit: 1
+Index 1: Page: 1, Resident bit: 0
+Index 2: Page: 2, Resident bit: 0
+Index 3: Page: 3, Resident bit: 0
+Index 4: Page: 7, Resident bit: 0
+Index 5: Page: 8, Resident bit: 1
+
+Process 2 is writing from virtual page 9 which occupies frame 7. Number of resident pages is 8
+Process 2 is writing from virtual page 11 which occupies frame 2. Number of resident pages is 8
+Process 2 is reading from virtual page 12 which occupies frame 1. Number of resident pages is 8
+Process 2 is writing from virtual page 11 which occupies frame 2. Number of resident pages is 8
+Process 2 is writing from virtual page 1 which occupies frame 0. Number of resident pages is 8
+Process 2 is writing from virtual page 11 which occupies frame 2. Number of resident pages is 8
+Process 2 is reading from virtual page 9 which occupies frame 7. Number of resident pages is 8
+Process 0 is reading from virtual page 1 which occupies frame 0. Number of resident pages is 6
+Process 0 is writing from virtual page 20 which occupies frame 6. Number of resident pages is 7
+Index 0: Page: 1, Resident bit: 0
+Index 1: Page: 10, Resident bit: 0
+Index 3: Page: 6, Resident bit: 0
+Index 4: Page: 4, Resident bit: 0
+Index 5: Page: 21, Resident bit: 0
+Index 6: Page: 20, Resident bit: 0
+Process 2 is writing from virtual page 9 which occupies frame 7. Number of resident pages is 8
+Process 2 is writing from virtual page 11 which occupies frame 2. Number of resident pages is 8
+Process 2 is reading from virtual page 12 which occupies frame 1. Number of resident pages is 8
+Process 2 is writing from virtual page 11 which occupies frame 2. Number of resident pages is 8
+Process 2 is writing from virtual page 1 which occupies frame 0. Number of resident pages is 8
+Process 2 is writing from virtual page 11 which occupies frame 2. Number of resident pages is 8
+Process 0 is writing from virtual page 20 which occupies frame 6. Number of resident pages is 6
+Process 0 terminated. Total memory accesses: 42. Total page faults: 12. Page fault percentage: 28.5714%.
+Index 0: Page: 1, Resident bit: 0
+Index 1: Page: 10, Resident bit: 0
+Index 3: Page: 6, Resident bit: 0
+Index 4: Page: 4, Resident bit: 0
+Index 5: Page: 21, Resident bit: 0
+Index 6: Page: 20, Resident bit: 1
+
+Process 2 is reading from virtual page 9 which occupies frame 7. Number of resident pages is 8
+Process 2 is writing from virtual page 8 which occupies frame 8. Number of resident pages is 9
+Index 0: Page: 1, Resident bit: 0
+Index 1: Page: 12, Resident bit: 0
+Index 2: Page: 11, Resident bit: 0
+Index 6: Page: 3, Resident bit: 0
+Index 7: Page: 9, Resident bit: 0
+Index 8: Page: 8, Resident bit: 0
+Process 2 is writing from virtual page 1 which occupies frame 0. Number of resident pages is 6
+Process 2 terminated. Total memory accesses: 64. Total page faults: 9. Page fault percentage: 14.0625%.
+Index 0: Page: 1, Resident bit: 1
+Index 1: Page: 12, Resident bit: 0
+Index 2: Page: 11, Resident bit: 0
+Index 6: Page: 3, Resident bit: 0
+Index 7: Page: 9, Resident bit: 0
+Index 8: Page: 8, Resident bit: 0
+
+Process 2 terminated. Total memory accesses: 64. Total page faults: 9. Page fault percentage: 14.0625%.
+Index 0: Page: 1, Resident bit: 1
+Index 1: Page: 12, Resident bit: 0
+Index 2: Page: 11, Resident bit: 0
+Index 6: Page: 3, Resident bit: 0
+Index 7: Page: 9, Resident bit: 0
+Index 8: Page: 8, Resident bit: 0
