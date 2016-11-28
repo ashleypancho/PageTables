@@ -20,11 +20,15 @@ The process ID states which processes is being used.
 The operation will either be n (new process), r (read), w (write), or t (terminate).
 
 Example:
+
+```
             3          n          22
             3          r           1
             3          w          10
             3          w          10
             3          t          -1
+```
+
 1. Create a new process, process 3, that is 22 virtual pages in length.  That means a page table with 22 entries must be created for process 3.
 2. Process 3 wants to read from virtual page 1.  Page 1 needs to be assigned to an available page frame (page fault).  Set use bit for page 1 to 1.
 3. Process 3 wants to write to virtual page 10.  Page 10 needs to be assigned to an available page frame (page fault). Set use bit for page 10 to 1.
