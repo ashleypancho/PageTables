@@ -34,3 +34,5 @@ Example:
 3. Process 3 wants to write to virtual page 10.  Page 10 needs to be assigned to an available page frame (page fault). Set use bit for page 10 to 1.
 4. Process 3 wants to write again to virtual page 10.  Page 10 should already occupy a frame. Set use bit for page 10 to 1.
 5. Process 3 wants to terminate.  All page frames assigned to process 3 will be released.
+
+The results will be in a file called status.txt. One is included in this repository to show how the results are formatted.
